@@ -1,4 +1,4 @@
-# CodeAlpha Internship task 1: Grocery Store Sales
+# Task 1: Grocery Store Sales
 
 FoodYum is a grocery store chain that is based in the United States.
 
@@ -24,7 +24,7 @@ The dataset contains records of customers for their last full year of the loyalt
 | stock_location | Nominal. The location that stock originates. This can be one of four warehouse locations, A, B, C or D </br>Missing values should be replaced with “Unknown”. |
 
 
-# CodeAlpha internship task 2: Hotel Operations
+# Task 2: Hotel Operations
 
 LuxurStay Hotels is a major, international chain of hotels. They offer hotels for both business and leisure travellers in major cities across the world. The chain prides themselves on the level of customer service that they offer. 
 
